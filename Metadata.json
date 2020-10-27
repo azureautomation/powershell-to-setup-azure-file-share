@@ -1,0 +1,20 @@
+{
+    "Author": "Pawan Dubey",
+    "ContentSize": 1072,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-to-setup-azure-file-share/master/PowerShell%20to%20Setup%20Azure%20File%20Share.ps1",
+    "DownloadCount": 726,
+    "Id": "PowerShell-to-Setup-Azure-48cebf2c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 218,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-7-19T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This article is about creating Azure File Share using PowerShell.",
+    "Title": "PowerShell to Setup Azure File Share",
+    "UpdatedDate": "2017-7-19T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-to-setup-azure-file-share",
+    "UserTags": "PowerShell Setup Azure File Share, Azure File Share"
+}
